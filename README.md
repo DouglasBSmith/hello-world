@@ -1,2 +1,2 @@
 # hello-world
-sandbox for tutorial
+box for tutorial
